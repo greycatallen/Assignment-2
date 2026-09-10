@@ -1,7 +1,7 @@
 {
   "exploration": 0.2,
   "episodes_requested": 100,
-  "learning_rate": 0.002,
+  "learning_rate": 0.01,
   "seed": 42,
   "device": "cpu",
   "python": "3.13.15",
