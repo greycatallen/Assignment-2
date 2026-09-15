@@ -280,6 +280,6 @@ All eleven completed without interruption, and every one recorded a non-zero lea
 The playback checkpoints — `untrained.pt`, `trained.pt`, and `episode_0025/0050/0075/0100.pt`,
 6.7 MB each, roughly 37 MB per run and over 400 MB across eleven runs — are **not committed**. They
 are excluded by `.gitignore` along with the whole `pacman_runs/` folder, and are kept in the original
-run ZIPs stored locally; the headline run is `20260915_033932_047120.zip`. They are needed only to
+run ZIPs stored locally; the headline run is `20260915_040840_548591.zip`. They are needed only to
 replay a saved agent. Every number and image in this README comes from the JSON, CSV, PNG and GIF
 files committed above.
