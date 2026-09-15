@@ -107,7 +107,7 @@ From [`results/training_summary.json`](results/training_summary.json) and [`resu
 | Episodes completed | 100 of 100 requested |
 | Total decisions | 61,787 |
 | Learning updates | **15,197** |
-| Elapsed training time | 414.9 s (6.9 min), including periodic sample capture |
+| Elapsed training time | 377.5 s (6.3 min), including periodic sample capture |
 | Hardware | CPU (Colab, Linux x86-64), PyTorch 2.9.0+cpu, Python 3.13.15 |
 
 Colab reported CPU rather than GPU. It made little practical difference — the Atari emulator is
